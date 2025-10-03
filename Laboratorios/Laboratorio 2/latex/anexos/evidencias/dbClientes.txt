@@ -1,0 +1,2 @@
+{"CI": "22221111", "codigo": "02", "correoE": "carlos@mail.com", "fechaIng": "2000-10-10", "fechaNac": "1995-05-05", "nombre": "Carlos", "puntos": 300.0}
+{"CI": "58213893", "codigo": "05", "correoE": "juan@mail.com", "fechaIng": "2025-10-05", "fechaNac": "2010-10-10", "nombre": "Juan", "puntos": 1023.0}

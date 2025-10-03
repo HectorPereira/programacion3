@@ -1,0 +1,51 @@
+\begin{thebibliography}{{ECM}17}
+
+\bibitem[Dow12]{downey2012}
+A.~Downey.
+\newblock {\em Think Python: How to Think Like a Computer Scientist}.
+\newblock Green Tea Press, 2012.
+
+\bibitem[{ECM}17]{json_org}
+{ECMA International}.
+\newblock The json data interchange syntax, standard ecma-404, 2017.
+
+\bibitem[Fow04]{fowler2004}
+M.~Fowler.
+\newblock {\em UML Distilled: A Brief Guide to the Standard Object Modeling
+  Language}.
+\newblock Addison-Wesley, 3rd edition, 2004.
+
+\bibitem[GHJV95]{gamma1995}
+E.~Gamma, R.~Helm, R.~Johnson, and J.~Vlissides.
+\newblock {\em Design Patterns: Elements of Reusable Object-Oriented Software}.
+\newblock Addison-Wesley, 1995.
+
+\bibitem[Gut16]{guttag2016}
+J.~V. Guttag.
+\newblock {\em Introduction to Computation and Programming Using Python}.
+\newblock MIT Press, 2nd edition, 2016.
+
+\bibitem[Lut13]{lutz2013}
+M.~Lutz.
+\newblock {\em Learning Python}.
+\newblock O’Reilly Media, 5th edition, 2013.
+
+\bibitem[Mor00]{morero2000}
+F.~Morero.
+\newblock {\em Introducción a la OOP}.
+\newblock Grupo EIDOS, Montevideo, 2000.
+
+\bibitem[{Pyt}]{python_docs}
+{Python Software Foundation}.
+\newblock Python 3 documentation.
+
+\bibitem[RJB99]{rumbaugh1999}
+J.~Rumbaugh, I.~Jacobson, and G.~Booch.
+\newblock {\em The Unified Modeling Language Reference Manual}.
+\newblock Addison-Wesley, 1999.
+
+\bibitem[{UML}]{uml_diagrams}
+{UML-diagrams.org}.
+\newblock Uml class and object diagrams overview.
+
+\end{thebibliography}

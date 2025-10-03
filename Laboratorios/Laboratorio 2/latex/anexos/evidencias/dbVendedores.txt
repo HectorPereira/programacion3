@@ -1,0 +1,2 @@
+{"CI": "123123123123", "codigo": "02", "correoE": "diego@mail.com", "fechaIng": "2000-10-10", "fechaNac": "2024-03-20", "horarios": ["10-19"], "nombre": "Diego", "sueldo": 1231233.2}
+{"CI": "12301248", "codigo": "05", "correoE": "pepe@mail.com", "fechaIng": "2012-12-12", "fechaNac": "2005-12-09", "horarios": ["9", "17"], "nombre": "Pepe", "sueldo": 1023.0}
