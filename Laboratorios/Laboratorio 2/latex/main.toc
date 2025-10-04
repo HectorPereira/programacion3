@@ -9,30 +9,29 @@
 \contentsline {subsection}{\numberline {3.3}Rutas y archivos}{4}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}Ejecución del programa}{4}{subsection.3.4}%
 \contentsline {subsection}{\numberline {3.5}Aclaración de datos en función}{4}{subsection.3.5}%
-\contentsline {section}{\numberline {4}Fundamentación teórica}{4}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Programación Orientada a Objetos (POO)}{4}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Relaciones UML: asociación, agregación, composición y multiplicidad}{5}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Persistencia y serialización}{5}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Integridad referencial y escritura atómica}{5}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Normalización y manejo de fechas}{5}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}Estructuras de datos y eficiencia}{5}{subsection.4.6}%
-\contentsline {subsection}{\numberline {4.7}Tipado y validación}{5}{subsection.4.7}%
-\contentsline {subsection}{\numberline {4.8}Contratos, estado y consistencia}{5}{subsection.4.8}%
-\contentsline {section}{\numberline {5}Metodología}{6}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Herramientas y material}{6}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Procedimiento}{6}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Justificación y Alcance de la Metodología}{7}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Criterios de Validación}{7}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Limitaciones}{8}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}Conexión con los Objetivos}{8}{subsection.5.6}%
-\contentsline {section}{\numberline {6}Resultados}{8}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Nuevo UML}{8}{subsection.6.1}%
+\contentsline {subsection}{\numberline {3.6}Programación Orientada a Objetos (POO)}{4}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Relaciones UML: asociación, agregación, composición y multiplicidad}{5}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Persistencia y serialización}{5}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Integridad referencial y escritura atómica}{5}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}Normalización y manejo de fechas}{5}{subsection.3.10}%
+\contentsline {subsection}{\numberline {3.11}Estructuras de datos y eficiencia}{5}{subsection.3.11}%
+\contentsline {subsection}{\numberline {3.12}Tipado y validación}{5}{subsection.3.12}%
+\contentsline {subsection}{\numberline {3.13}Contratos, estado y consistencia}{5}{subsection.3.13}%
+\contentsline {section}{\numberline {4}Metodología}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Herramientas y material}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Procedimiento}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Justificación y Alcance de la Metodología}{7}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Criterios de Validación}{7}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Limitaciones}{8}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Conexión con los Objetivos}{8}{subsection.4.6}%
+\contentsline {section}{\numberline {5}Resultados}{8}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Nuevo UML}{8}{subsection.5.1}%
 \contentsline {paragraph}{Cambios respecto al UML inicial.}{9}{section*.7}%
-\contentsline {subsection}{\numberline {6.2}Clases}{9}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Guardado y lectura de archivos}{9}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}Resumen de validaciones}{10}{subsection.6.4}%
-\contentsline {section}{\numberline {7}Conclusiones}{10}{section.7}%
+\contentsline {subsection}{\numberline {5.2}Clases}{9}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Guardado y lectura de archivos}{9}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Resumen de validaciones}{10}{subsection.5.4}%
+\contentsline {section}{\numberline {6}Conclusiones}{10}{section.6}%
 \contentsline {section}{\numberline {A}Recursos}{12}{appendix.Alph1}%
 \contentsline {section}{\numberline {B}CÓDIGO-FUENTE EN LENGUAJE PYTHON}{12}{appendix.Alph2}%
 \contentsline {section}{\numberline {C}EVIDENCIAS DE FUNCIONAMIENTO}{35}{appendix.Alph3}%
-\contentsline {section}{\numberline {D}RESULTADOS EN ARCHIVOS .TXT}{39}{appendix.Alph4}%
+\contentsline {section}{\numberline {D}RESULTADOS EN ARCHIVOS .TXT}{40}{appendix.Alph4}%

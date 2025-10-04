@@ -1,6 +1,6 @@
-PWD c:\Users\hecto\OneDrive\Desktop\Prog 3\latex
+PWD c:\Users\hecto\OneDrive\Desktop\Github UTEC\programacion3\Laboratorios\Laboratorio 2\latex
 INPUT C:\Users\hecto\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\hecto\OneDrive\Desktop\Prog 3\latex\main.tex
+INPUT c:\Users\hecto\OneDrive\Desktop\Github UTEC\programacion3\Laboratorios\Laboratorio 2\latex\main.tex
 OUTPUT main.log
 INPUT C:\Users\hecto\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\hecto\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls

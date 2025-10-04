@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1759529399.6579 "c:/Users/hecto/OneDrive/Desktop/Prog 3/Continua/[TAREA] clase introducción a Procesos (2-10)/latex/main.tex" "main.pdf" "main" 1759529400.73132 0
+["pdflatex"] 1759575709.98047 "c:/Users/hecto/OneDrive/Desktop/Github UTEC/programacion3/Continua/[TAREA] clase introducción a Procesos (2-10)/latex/main.tex" "main.pdf" "main" 1759575711.28073 0
   "C:/Users/hecto/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1759472287 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/hecto/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1755027854 13257295 6220036096196477d82c74b95064958e ""
   "C:/Users/hecto/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -74,11 +74,11 @@
   "C:/Users/hecto/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1749468414 33259 db80f750a01491473161bd4d0f6986d2 ""
   "C:/Users/hecto/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/hecto/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "anexos/codigo.py" 1759529397 1125 0449a35e58df3642db17c3b284493186 ""
-  "c:/Users/hecto/OneDrive/Desktop/Prog 3/Continua/[TAREA] clase introducción a Procesos (2-10)/latex/main.tex" 1759529399 1938 66b33784ab15dfee7a9f4682bb84a7e5 ""
-  "main.aux" 1759529400 584 9291a58b0e4db395270d26b1db9c1244 "pdflatex"
-  "main.out" 1759529400 144 5884d505f5ebaa69712905255f649676 "pdflatex"
-  "main.tex" 1759529399 1938 66b33784ab15dfee7a9f4682bb84a7e5 ""
+  "anexos/codigo.py" 1759575709 963 8ea08f1e6adb987a95be11d8e834098b ""
+  "c:/Users/hecto/OneDrive/Desktop/Github UTEC/programacion3/Continua/[TAREA] clase introducción a Procesos (2-10)/latex/main.tex" 1759575656 1938 66b33784ab15dfee7a9f4682bb84a7e5 ""
+  "main.aux" 1759575711 584 9291a58b0e4db395270d26b1db9c1244 "pdflatex"
+  "main.out" 1759575711 144 5884d505f5ebaa69712905255f649676 "pdflatex"
+  "main.tex" 1759575656 1938 66b33784ab15dfee7a9f4682bb84a7e5 ""
   (generated)
   "main.aux"
   "main.log"

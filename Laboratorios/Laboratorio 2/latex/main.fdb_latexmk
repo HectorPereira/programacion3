@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1759527832.00537 "main.aux" "main.bbl" "main" 1759527861.63703 0
+["bibtex main"] 1759533772.31938 "main.aux" "main.bbl" "main" 1759533776.54305 0
   "./referencias.bib" 1759474437 2151 526d2b10ea7a9c62973d1a4b30c8046e ""
   "C:/Users/hecto/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/alpha.bst" 1291864736 23907 a5f93555796fb564b924339521f10a7c ""
-  "main.aux" 1759527860 12128 2da827e7805fd27c6905b9ab4a1d7adb "pdflatex"
+  "main.aux" 1759533775 11867 219ac528fcdd72c30aba88e460cdee17 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1759527858.49198 "c:/Users/hecto/OneDrive/Desktop/Prog 3/latex/main.tex" "main.pdf" "main" 1759527861.63784 0
+["pdflatex"] 1759533772.642 "c:/Users/hecto/OneDrive/Desktop/Github UTEC/programacion3/Laboratorios/Laboratorio 2/latex/main.tex" "main.pdf" "main" 1759533776.54385 0
   "C:/Users/hecto/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1759472287 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/hecto/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1755983997 12668 c55242a75a181a7853ba4d7e639079e8 ""
   "C:/Users/hecto/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1755027854 13257295 6220036096196477d82c74b95064958e ""
@@ -122,12 +122,12 @@
   "anexos/evidencias/menuPrincipal.png" 1759470909 13142 0e81b04460929cd8e5882b201e344109 ""
   "anexos/evidencias/suspenderCompra.png" 1759472029 8229 faf5e3c5efa49abffb5d9caf0b02d63b ""
   "anexos/isologotipo-para-fondo-blanco.png" 1759443939 92345 6e5bbbb179fc43abfae33e925d1b4f58 ""
-  "c:/Users/hecto/OneDrive/Desktop/Prog 3/latex/main.tex" 1759527857 33546 381b332e1ac68d70a6abc2408fcea04d ""
-  "main.aux" 1759527860 12128 2da827e7805fd27c6905b9ab4a1d7adb "pdflatex"
-  "main.bbl" 1759527832 1490 5b44d568d81fdb33373257b02aa1b4d6 "bibtex main"
-  "main.out" 1759527860 6117 fc4fddfba455c41e95e14874221d6d11 "pdflatex"
-  "main.tex" 1759527857 33546 381b332e1ac68d70a6abc2408fcea04d ""
-  "main.toc" 1759527860 3231 058a088acc0387610d3138b5cb8dafb5 "pdflatex"
+  "c:/Users/hecto/OneDrive/Desktop/Github UTEC/programacion3/Laboratorios/Laboratorio 2/latex/main.tex" 1759533769 33495 32b7f7dbaddff2a8446cfeadfe591a38 ""
+  "main.aux" 1759533775 11867 219ac528fcdd72c30aba88e460cdee17 "pdflatex"
+  "main.bbl" 1759533772 1490 5b44d568d81fdb33373257b02aa1b4d6 "bibtex main"
+  "main.out" 1759533775 5958 fc1448436e3c9bd171457b31874c837a "pdflatex"
+  "main.tex" 1759533769 33495 32b7f7dbaddff2a8446cfeadfe591a38 ""
+  "main.toc" 1759533775 3159 7bfe378ec4d8ae61bf234cddcb6d6c81 "pdflatex"
   (generated)
   "main.aux"
   "main.log"

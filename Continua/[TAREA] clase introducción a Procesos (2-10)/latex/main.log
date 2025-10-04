@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.12)  3 OCT 2025 19:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.12)  4 OCT 2025 08:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/hecto/OneDrive/Desktop/Prog 3/Continua/[TAREA] clase introducción a Procesos (2-10)/latex/main.tex"
-(c:/Users/hecto/OneDrive/Desktop/Prog 3/Continua/[TAREA] clase introducción a Procesos (2-10)/latex/main.tex
+**"c:/Users/hecto/OneDrive/Desktop/Github UTEC/programacion3/Continua/[TAREA] clase introducción a Procesos (2-10)/latex/main.tex"
+(c:/Users/hecto/OneDrive/Desktop/Github UTEC/programacion3/Continua/[TAREA] clase introducción a Procesos (2-10)/latex/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
 (C:\Users\hecto\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -504,17 +504,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 5884D505F5EBAA69712905255F649676;144.
  ) 
 Here is how much of TeX's memory you used:
- 16103 strings out of 468134
- 268284 string characters out of 5430740
- 1061789 words of memory out of 5000000
- 44531 multiletter control sequences out of 15000+600000
+ 16100 strings out of 468134
+ 268443 string characters out of 5430740
+ 1037789 words of memory out of 5000000
+ 44530 multiletter control sequences out of 15000+600000
  628802 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,348b,1443s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,367b,1439s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/hecto/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/hecto/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/hecto/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/hecto/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (2 pages, 63949 bytes).
+Output written on main.pdf (2 pages, 63196 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
+ 86 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
  9 words of extra memory for PDF output out of 10000 (max. 10000000)
 
