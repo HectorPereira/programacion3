@@ -1,0 +1,89 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish,es-tabla]{babel}
+\usepackage[unicode]{hyperref}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{multirow}
+\usepackage{listings}
+\usepackage[toc,page]{appendix}
+\usepackage[spanish]{cleveref}
+\usepackage{float}
+\usepackage{booktabs}
+\usepackage{multicol}
+\usepackage{caption}
+\usepackage{xcolor}
+
+% ---- Configuración de geometría ----
+\geometry{a4paper, margin=2.5cm}
+
+% ---- Configuración de hipervínculos ----
+\hypersetup{
+  colorlinks=true,
+  urlcolor=blue,
+  linkcolor=black,
+  citecolor=black,
+  breaklinks=true
+}
+
+% ---- Colores para código ----
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{1,1,1}
+
+% ---- Configuración de listings ----
+\lstset{
+  backgroundcolor=\color{backcolour},   
+  commentstyle=\color{codegreen},
+  keywordstyle=\color{magenta},
+  numberstyle=\tiny\color{codegray},
+  stringstyle=\color{codepurple},
+  basicstyle=\small\ttfamily,
+  breakatwhitespace=false,   
+  keepspaces=true,
+  showstringspaces=false,
+  columns=flexible,
+  breaklines=true,
+  inputencoding=utf8,
+  extendedchars=true
+}
+
+% ------------------------------
+%        DOCUMENTO
+% ------------------------------
+\begin{document}
+
+% ---- Portada ----
+\begin{titlepage}
+  \centering
+  {\large Universidad Tecnológica del Uruguay \\[0.5cm]}
+  {\large Ingeniería en Mecatrónica \\[2cm]}
+
+  {\Huge \textbf{Tarea: Procesos parte 3}}\\[1cm]
+
+  {\Large Programación 3}\\[0.5cm]
+  {\Large Profesores: Giovani Bolzan Cogo, Mariano Arbiza}\\[1.5cm]
+
+  \vfill
+  {\large Autor: Hector Pereira}\\
+  {\large Fecha: \today}
+\end{titlepage}
+
+
+
+
+
+
+\section{Código implementado}
+\lstinputlisting[language=python]{anexos/codigo.py}
+
+
+
+
+
+
+\end{document}
+
+

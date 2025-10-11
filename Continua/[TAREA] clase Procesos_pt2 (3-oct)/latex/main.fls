@@ -1,6 +1,6 @@
-PWD c:\Users\hecto\OneDrive\Desktop\Prog 3\Continua\[TAREA] clase Procesos_pt2 (3-oct)\latex
+PWD c:\Users\hecto\OneDrive\Desktop\Github UTEC\programacion3\Continua\[TAREA] clase Procesos_pt2 (3-oct)\latex
 INPUT C:\Users\hecto\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\hecto\OneDrive\Desktop\Prog 3\Continua\[TAREA] clase Procesos_pt2 (3-oct)\latex\main.tex
+INPUT c:\Users\hecto\OneDrive\Desktop\Github UTEC\programacion3\Continua\[TAREA] clase Procesos_pt2 (3-oct)\latex\main.tex
 OUTPUT main.log
 INPUT C:\Users\hecto\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\hecto\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -175,3 +175,5 @@ INPUT C:\Users\hecto\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\hecto\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\hecto\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\hecto\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\hecto\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Users\hecto\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1759529319.947 "c:/Users/hecto/OneDrive/Desktop/Prog 3/Continua/[TAREA] clase Procesos_pt2 (3-oct)/latex/main.tex" "main.pdf" "main" 1759529321.11911 0
+["pdflatex"] 1760054229.54888 "c:/Users/hecto/OneDrive/Desktop/Github UTEC/programacion3/Continua/[TAREA] clase Procesos_pt2 (3-oct)/latex/main.tex" "main.pdf" "main" 1760054230.63798 0
   "C:/Users/hecto/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1759472287 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/hecto/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1755027854 13257295 6220036096196477d82c74b95064958e ""
   "C:/Users/hecto/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -10,6 +10,7 @@
   "C:/Users/hecto/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/hecto/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/hecto/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "C:/Users/hecto/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1247596667 31099 342ef5a582aacbd3346f3cf4579679fa ""
   "C:/Users/hecto/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/hecto/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1754220793 146665 9149bce97203d4030d7cbe4f4e85dfc4 ""
   "C:/Users/hecto/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/es/babel-es.ini" 1754220795 4345 33a8cc6f0a7c6afcb84895b2c963a4e5 ""
@@ -73,11 +74,11 @@
   "C:/Users/hecto/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1749468414 33259 db80f750a01491473161bd4d0f6986d2 ""
   "C:/Users/hecto/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/hecto/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "anexos/codigo.py" 1759528647 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "c:/Users/hecto/OneDrive/Desktop/Prog 3/Continua/[TAREA] clase Procesos_pt2 (3-oct)/latex/main.tex" 1759529319 1938 ca1faa3eaeef27b6f0f21b09ee5ef4b9 ""
-  "main.aux" 1759529320 584 9291a58b0e4db395270d26b1db9c1244 "pdflatex"
-  "main.out" 1759529320 144 5884d505f5ebaa69712905255f649676 "pdflatex"
-  "main.tex" 1759529319 1938 ca1faa3eaeef27b6f0f21b09ee5ef4b9 ""
+  "anexos/codigo.py" 1759576586 2866 dd8586e0b7aea88cf503a6bde4887d35 ""
+  "c:/Users/hecto/OneDrive/Desktop/Github UTEC/programacion3/Continua/[TAREA] clase Procesos_pt2 (3-oct)/latex/main.tex" 1760054228 1938 ca1faa3eaeef27b6f0f21b09ee5ef4b9 ""
+  "main.aux" 1760054230 584 24b046fa621942c6b76b7530479aa029 "pdflatex"
+  "main.out" 1760054230 144 5884d505f5ebaa69712905255f649676 "pdflatex"
+  "main.tex" 1760054228 1938 ca1faa3eaeef27b6f0f21b09ee5ef4b9 ""
   (generated)
   "main.aux"
   "main.log"
