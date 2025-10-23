@@ -1,0 +1,7 @@
+Este es un archivo de prueba.
+Cuenta cuántas palabras tiene este texto.
+Funciona también con varias líneas.Este es un archivo de prueba.
+Cuenta cuántas palabras tiene este texto.
+Funciona también con varias líneas.Este es un archivo de prueba.
+Cuenta cuántas palabras tiene este texto.
+Funciona también con varias líneas.

@@ -1,20 +1,37 @@
-import time, random
-from concurrent.futures import ThreadPoolExecutor
+import threading
+import random
+import time
+
+# Pista compartida entre los corredores
+# El Lock evita que dos hilos accedan al mismo recurso al mismo tiempo
+lock = threading.Lock()
 
 def corredor(nombre):
+    # Cada hilo representa un corredor
     distancia = 0
-    for s in range(5): # 5 pasos
-        # Avance aleatorio para cada corredor
-        distancia += random.randint(1, 5)
-        print(f"[{nombre}] Segundo {s+1}: total {distancia} m")
-        time.sleep(1) 
-    return nombre, distancia
+    while distancia < 100:
+        with lock:    # Solo un hilo puede entrar en esta seccion a la vez
+            
+            paso = random.randint(1, 10) # El corredor avanza una distancia aleatoria
+            distancia += paso
 
-with ThreadPoolExecutor(2) as pool:
-    print("Comienza la carrera\n")
-    # Inciar threads
-    resultados = pool.map(corredor, ["Corredor A", "Corredor B"])
+            # Muestra el progreso actual del corredor
+            print(f"{nombre} avanza {paso} m (total: {distancia})")
+        
+        # Simula tiempo de espera antes del siguiente intento
+        # durante este tiempo la pista puede ser usada por otro hilo
+        time.sleep(0.5)
 
-print("\nCarrera finalizada")
-for nombre, d in resultados:
-    print(f"{nombre} recorrio {d} metros.")
+# Creacion de los hilos (dos corredores)
+t1 = threading.Thread(target=corredor, args=("Corredor A",))
+t2 = threading.Thread(target=corredor, args=("Corredor B",))
+
+# Inicio de los hilos
+t1.start()
+t2.start()
+
+# Espera a que ambos corredores terminen la carrera
+t1.join()
+t2.join()
+
+print("Carrera terminada.")
