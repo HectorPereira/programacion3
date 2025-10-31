@@ -1,3 +1,1 @@
-Este es un archivo de prueba.
-Cuenta cuántas palabras tiene este texto.
-Funciona también con varias líneas.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum interdum enim, in tristique sapien pellentesque vitae. Aliquam aliquet, ipsum nec porttitor laoreet, nulla mi vulputate massa, cursus blandit eros massa eu libero. Etiam vitae nisl tincidunt, porta nunc eget, consequat nibh. Aenean volutpat sit amet dolor sit amet placerat. Vivamus fermentum sapien vel magna feugiat, at ultricies ligula pretium. Fusce vehicula diam sit amet metus auctor, eu facilisis elit lobortis. Praesent blandit sapien nec consequat ullamcorper. Sed convallis nec lectus vel maximus. Vestibulum malesuada est metus, suscipit vestibulum magna rutrum nec. Pellentesque neque dui, volutpat ac lectus vel, hendrerit pulvinar erat.
