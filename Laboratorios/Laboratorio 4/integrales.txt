@@ -1,0 +1,10 @@
+Integral de x**0 = x
+Integral de x**1 = x**2/2
+Integral de x**2 = x**3/3
+Integral de x**3 = x**4/4
+Integral de x**4 = x**5/5
+Integral de x**5 = x**6/6
+Integral de x**6 = x**7/7
+Integral de x**7 = x**8/8
+Integral de x**8 = x**9/9
+Integral de x**9 = x**10/10

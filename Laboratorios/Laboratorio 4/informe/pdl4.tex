@@ -1,0 +1,192 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish,es-tabla]{babel}
+
+\usepackage[unicode]{hyperref}
+\hypersetup{
+  colorlinks=true,
+  urlcolor=blue,
+  linkcolor=black,
+  citecolor=black,
+  breaklinks=true
+}
+
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{multirow}
+\usepackage{listings}
+\usepackage[toc,page]{appendix}
+\usepackage[spanish]{cleveref}
+\usepackage{float}
+\usepackage{booktabs}
+\usepackage{multicol}
+\usepackage{caption}
+\usepackage{xcolor}
+\usepackage{xurl}   
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{1,1,1}
+
+\lstset{
+backgroundcolor=\color{backcolour},   
+commentstyle=\color{codegreen},
+keywordstyle=\color{magenta},
+numberstyle=\tiny\color{codegray},
+stringstyle=\color{codepurple},
+basicstyle=\small\ttfamily,
+breakatwhitespace=false,   
+keepspaces=true,
+showstringspaces=false,
+columns=flexible,
+breaklines=true,
+inputencoding=utf8,
+extendedchars = true
+} 
+
+\geometry{a4paper, left=20mm, right=20mm, top=20mm, bottom=20mm}
+\renewcommand{\listtablename}{Lista de tablas}
+\renewcommand{\tablename}{Tabla}
+\renewcommand{\lstlistingname}{Algoritmo}
+\renewcommand{\lstlistlistingname}{Lista de \lstlistingname s}
+
+\begin{document}
+
+% ===================================================================
+% ENCABEZADO
+% ===================================================================
+\begingroup
+\tiny
+\begin{frame}
+\\	\centering
+	\resizebox{\textwidth}{!}{
+	\begin{tabular}{c c} \hline
+	\multirow{5}{*}{$\vcenter{\hbox{\includegraphics[width=1.5cm]{anexos/isologotipo-para-fondo-blanco(2).png}}}$} 
+	& UNIVERSIDAD TECNOLÓGICA DEL URUGUAY\\
+	& ITR SUROESTE $\cdot$ FRAY BENTOS\\
+	& INGENIERÍA MECATRÓNICA \\
+	& UC de Programación III $\cdot$ 2025\\
+	& Profesores: Giovani Bolzan Cogo y Mariano Arbiza\\		\hline
+	\end{tabular}} \\
+	\resizebox{\textwidth}{!}{
+	\begin{tabular}{l |rr} 
+	\multirow{2}{*}{Práctico de laboratorio IV - Concurrencia vía hilos}& \multirow{2}{*}{Periodo:}
+	&de  6/11/2025\\	\cline{3-3}
+	& &hasta 16/11/2025\\	\hline 
+	\end{tabular}}
+\end{frame}
+\endgroup
+
+% ===================================================================
+% INTEGRANTES
+% ===================================================================
+\begin{flushright}
+\subsection*{Integrantes}
+	\subitem Guido Andreoli -- 5.307.933-9
+	\subitem Lucas Lopez -- 5.259.876-6
+    \subitem Hector Pereira -- 5.582.582-5
+    \subitem Alvaro Kuster -- 3.832.334-1 
+\end{flushright}
+
+% ===================================================================
+% RESUMEN
+% ===================================================================
+\begin{abstract}
+(Resumen breve del trabajo práctico: objetivos generales, descripción del sistema o problema a resolver y resultados esperados.)
+\end{abstract}
+
+%\newpage
+%\tableofcontents
+%\newpage
+
+% ===================================================================
+% INTRODUCCIÓN
+% ===================================================================
+\section{Introducción}
+(Explicación general del tema, contexto, motivación y relación con la unidad curricular.)
+
+\subsection{Objetivos}
+\begin{itemize}
+    \item (Objetivo específico 1)
+    \item (Objetivo específico 2)
+    \item (Objetivo específico 3)
+\end{itemize}
+
+% ===================================================================
+% FUNDAMENTACIÓN TEÓRICA
+% ===================================================================
+\section{Fundamentación Teórica}
+(Explicación de conceptos teóricos relacionados: bibliotecas, módulos, estructuras, algoritmos, etc.)
+
+\subsection{Concepto 1}
+(Desarrollo.)
+
+\subsection{Concepto 2}
+(Desarrollo.)
+
+% ===================================================================
+% METODOLOGÍA
+% ===================================================================
+\section{Metodología} \label{sec:metodologia}
+
+\subsection{Herramientas y material}
+(Detallar entorno de desarrollo, lenguajes, librerías, equipos y materiales utilizados.)
+
+\subsection{Procedimiento}
+(Describir paso a paso el desarrollo del trabajo práctico, estructura del código y funcionamiento general del sistema.)
+
+% ===================================================================
+% RESULTADOS
+% ===================================================================
+\section{Resultados}
+(Exposición de los resultados obtenidos, comparación de versiones, mediciones, análisis, etc.)
+
+\begin{table}[H]
+\centering
+\caption{(Ejemplo de tabla de resultados o comparación de tiempos)}
+\label{tab:ejemplo_resultados}
+\begin{tabular}{lccc}
+\toprule
+\textbf{Prueba} & \textbf{Caso 1} & \textbf{Caso 2} & \textbf{Diferencia (\%)} \\
+\midrule
+(Descripción) & -- & -- & -- \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% ===================================================================
+% CONCLUSIONES
+% ===================================================================
+\section{Conclusiones}
+(Conclusiones principales, observaciones, limitaciones y posibles mejoras.)
+
+% ===================================================================
+% BIBLIOGRAFÍA
+% ===================================================================
+\bibliographystyle{alpha}
+\nocite{*}
+\bibliography{referencias.bib}
+
+% ===================================================================
+% APÉNDICES
+% ===================================================================
+\appendix
+
+\section{Recursos}
+\begin{itemize}
+  \item \textbf{Carpeta general (Drive):} \url{(enlace)}
+  \item \textbf{Código fuente:} \url{(enlace a Colab o GitHub)}
+  \item \textbf{Overleaf:} \url{(enlace)}
+\end{itemize}
+
+\section{Código fuente}
+\lstinputlisting[language=Python]{anexos/codigo.py}
+
+\section{Salidas de consola}
+\begin{verbatim}
+(Aquí se insertan los resultados de consola, salidas de prueba, logs o verificaciones.)
+\end{verbatim}
+
+\end{document}

@@ -1,0 +1,6 @@
+integral: x**2
+derivada: sin(x)
+tesis: esta es una tesis con varias palabras
+integral: 3*x + 1
+derivada: log(x)
+tesis: otra tesis distinta para probar concurrencia

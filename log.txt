@@ -1,0 +1,12 @@
+2025-11-15 16:48:14,859 - INFO - Tarea 'tesis: esta es una tesis con varias palabras' completada en 0.0059 s
+2025-11-15 16:48:14,861 - INFO - Tarea 'derivada: sin(x)' completada en 0.0090 s
+2025-11-15 16:48:14,899 - INFO - Tarea 'derivada: log(x)' completada en 0.0371 s
+2025-11-15 16:48:14,901 - INFO - Tarea 'tesis: otra tesis distinta para probar concurrencia' completada en 0.0014 s
+2025-11-15 16:48:14,922 - INFO - Tarea 'integral: x**2' completada en 0.0718 s
+2025-11-15 16:48:14,923 - INFO - Tarea 'integral: 3*x + 1' completada en 0.0642 s
+2025-11-16 11:34:31,803 - INFO - Tarea 'tesis: esta es una tesis con varias palabras' completada en 0.0036 s
+2025-11-16 11:34:31,805 - INFO - Tarea 'derivada: sin(x)' completada en 0.0066 s
+2025-11-16 11:34:31,839 - INFO - Tarea 'derivada: log(x)' completada en 0.0329 s
+2025-11-16 11:34:31,840 - INFO - Tarea 'tesis: otra tesis distinta para probar concurrencia' completada en 0.0013 s
+2025-11-16 11:34:31,862 - INFO - Tarea 'integral: x**2' completada en 0.0640 s
+2025-11-16 11:34:31,862 - INFO - Tarea 'integral: 3*x + 1' completada en 0.0590 s
